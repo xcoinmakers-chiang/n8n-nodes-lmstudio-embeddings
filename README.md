@@ -1,3 +1,7 @@
+## This Repository is forked from [here](https://github.com/Spectralon/n8n-nodes-lmstudio-embeddings)
+ 
+If this [PR](https://github.com/plixplox/n8n-nodes-lmstudio-embeddings/pull/3) has been merged. I will remove this repo.
+
 # n8n-nodes-lmstudio-embeddings
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
